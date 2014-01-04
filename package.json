@@ -1,0 +1,13 @@
+{
+  "name": "node-synchronised-mice",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "express3-handlebars": "*",
+    "socket.io": "*"
+  }
+}
